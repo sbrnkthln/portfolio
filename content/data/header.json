@@ -20,7 +20,7 @@
             "type": "Link"
         },
         {
-            "label": "Contack",
+            "label": "Contact",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",

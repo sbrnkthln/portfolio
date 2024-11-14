@@ -42,15 +42,6 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        altText: ''
-        url: /sabrinakathleen26@gmail.com
-        showIcon: false
-        icon: mail
-        iconPosition: right
-        style: primary
-        elementId: ''
-        label: Email
-      - type: Link
         label: Kaggle
         altText: ''
         url: '/https://www.kaggle.com/sabrinakathleen'
@@ -59,6 +50,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        altText: ''
+        url: /sabrinakathleen26@gmail.com
+        showIcon: false
+        icon: mail
+        iconPosition: right
+        style: primary
+        elementId: ''
+        label: Email
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''

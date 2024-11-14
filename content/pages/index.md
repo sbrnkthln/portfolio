@@ -22,6 +22,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: GitHub
+        url: '/https://github.com/sbrnkthln'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''

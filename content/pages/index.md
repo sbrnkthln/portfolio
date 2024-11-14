@@ -52,7 +52,7 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: /sabrinakathleen26@gmail.com
+        url: sabrinakathleen26@gmail.com
         showIcon: false
         icon: mail
         iconPosition: right

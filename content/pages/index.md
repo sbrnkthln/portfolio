@@ -7,6 +7,9 @@ sections:
       text: Sabrina Kathleen
       color: text-primary
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >+
       ##### Hello, there! I'm on a journey to delve into the world of data and

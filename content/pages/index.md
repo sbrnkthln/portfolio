@@ -13,7 +13,15 @@ sections:
       dedicating this platform as a journal, where I document my insights and
       discoveries.
 
-    actions: []
+    actions:
+      - type: Link
+        altText: LinkedIn
+        url: '/https://www.linkedin.com/in/sabrinakthln'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''

@@ -25,7 +25,7 @@ sections:
         label: GitHub
       - type: Link
         altText: LinkedIn
-        url: '/https://www.linkedin.com/in/sabrinakthln'
+        url: 'https://www.linkedin.com/in/sabrinakthln'
         showIcon: false
         icon: linkedin
         iconPosition: left

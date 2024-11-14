@@ -74,10 +74,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
         justifyContent: center
       text:
         textAlign: left

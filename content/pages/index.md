@@ -25,7 +25,7 @@ sections:
       - type: Link
         altText: LinkedIn
         url: '/https://www.linkedin.com/in/sabrinakthln'
-        showIcon: false
+        showIcon: true
         icon: linkedin
         iconPosition: left
         style: secondary

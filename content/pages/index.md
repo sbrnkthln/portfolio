@@ -112,7 +112,7 @@ sections:
     actions: []
     badge:
       label: Take a Look at my recent
-      color: text-light
+      color: text-neutral
       styles:
         self:
           textAlign: center

@@ -72,7 +72,7 @@ sections:
       color: text-neutral
       type: Badge
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: flex-end

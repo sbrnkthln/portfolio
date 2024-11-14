@@ -18,6 +18,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Screenshot 2024-11-14 203926.png
     badge:
       label: Data analyst | data scientist | business intelligence
       color: text-primary

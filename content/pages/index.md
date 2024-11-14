@@ -78,7 +78,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
+        justifyContent: flex-start
       text:
         textAlign: left
   - type: FeaturedItemsSection

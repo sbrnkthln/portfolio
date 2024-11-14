@@ -8,7 +8,7 @@
     "fontHeadlines": "",
     "h1": {
         "size": "base",
-        "weight": "bold",
+        "weight": "normal",
         "decoration": "underline",
         "case": "none",
         "letterSpacing": "tight",

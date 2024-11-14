@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Link
         altText: GitHub
-        url: 'https://github.com/sbrnkthln'
+        url: 'https://sbrnkthln.netlify.app/https:/github.com/sbrnkthln/'
         showIcon: false
         icon: github
         iconPosition: left

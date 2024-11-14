@@ -35,7 +35,7 @@ sections:
       - type: Link
         label: Medium
         altText: ''
-        url: '/https://medium.com/@sbrnkthln'
+        url: 'https://medium.com/@sbrnkthln'
         showIcon: false
         icon: arrowRight
         iconPosition: right

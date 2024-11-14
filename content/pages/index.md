@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Sabrina Kathleen
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >+

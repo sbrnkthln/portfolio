@@ -69,7 +69,7 @@ sections:
       type: ImageBlock
     badge:
       label: Data analyst | data scientist | business intelligence
-      color: text-neutral
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-neutral-fg-dark

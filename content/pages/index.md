@@ -22,6 +22,7 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+        label: GitHub
       - type: Link
         altText: LinkedIn
         url: '/https://www.linkedin.com/in/sabrinakthln'

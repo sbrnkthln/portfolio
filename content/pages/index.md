@@ -111,7 +111,7 @@ sections:
             flexDirection: col
     actions: []
     badge:
-      label: This is a badge
+      label: t
       color: text-primary
       styles:
         self:

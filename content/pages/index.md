@@ -39,7 +39,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Medium
         altText: ''
         url: '/https://medium.com/@sbrnkthln'
         showIcon: false

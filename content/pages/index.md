@@ -15,18 +15,18 @@ sections:
 
     actions:
       - type: Link
-        altText: LinkedIn
-        url: '/https://www.linkedin.com/in/sabrinakthln'
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         altText: GitHub
         url: '/https://github.com/sbrnkthln'
         showIcon: true
         icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: '/https://www.linkedin.com/in/sabrinakthln'
+        showIcon: true
+        icon: linkedin
         iconPosition: left
         style: secondary
         elementId: ''

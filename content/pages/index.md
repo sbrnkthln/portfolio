@@ -61,37 +61,6 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-7
-              - pl-7
-              - pb-7
-              - pr-7
-            borderRadius: small
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-            borderColor: border-light
-            borderWidth: 0
-        image:
-          type: ImageBlock
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-          url: /images/Screenshot 2024-11-14 203926.png
       - title: 20x
         subtitle: The Job Stuff
         text: >-

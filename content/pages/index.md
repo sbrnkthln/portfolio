@@ -35,7 +35,7 @@ sections:
       - type: Link
         altText: ''
         url: /sabrinakathleen26@gmail.com
-        showIcon: true
+        showIcon: false
         icon: mail
         iconPosition: right
         style: primary

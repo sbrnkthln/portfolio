@@ -26,7 +26,7 @@ sections:
         altText: LinkedIn
         url: '/https://www.linkedin.com/in/sabrinakthln'
         showIcon: true
-        icon: linkedin
+        icon: mail
         iconPosition: left
         style: secondary
         elementId: ''

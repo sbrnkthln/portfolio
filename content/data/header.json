@@ -12,14 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "About Me",
-            "url": "/about me",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Contact",
             "altText": "Blog",
             "url": "/blog",

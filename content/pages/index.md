@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Data analyst | data scientist | business intelegence
+      label: Data analyst | data scientist | business intelligence
       color: text-primary
       type: Badge
     elementId: ''

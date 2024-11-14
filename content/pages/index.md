@@ -48,7 +48,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Kaggle
         altText: ''
         url: '/https://www.kaggle.com/sabrinakathleen'
         showIcon: false

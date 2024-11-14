@@ -34,7 +34,7 @@ sections:
         altText: ''
         url: /sabrinakathleen26@gmail.com
         showIcon: true
-        icon: instagram
+        icon: mail
         iconPosition: right
         style: secondary
         elementId: ''

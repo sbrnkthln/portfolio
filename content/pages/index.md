@@ -31,6 +31,7 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+        label: LinkedIn
       - type: Link
         altText: ''
         url: /sabrinakathleen26@gmail.com

@@ -111,7 +111,7 @@ sections:
             flexDirection: col
     actions: []
     badge:
-      label: Take a Look at my recent
+      label: ''
       color: text-neutral
       styles:
         self:

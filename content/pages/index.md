@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Link
         altText: GitHub
-        url: github.com/sbrnkthln/
+        url: github.com/sbrnkthln
         showIcon: false
         icon: github
         iconPosition: left

@@ -1,0 +1,24 @@
+{
+    "model": "Social",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "logos ",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "logos"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "altText": "LinkedIn link",
+                "url": "https://www.linkedin.com/company/netlify",
+                "icon": "linkedin",
+                "elementId": null
+            },
+            "thumbnail": "images/social-logos-d4c7.png"
+        }
+    ]
+}

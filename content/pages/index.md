@@ -53,7 +53,7 @@ sections:
         justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Projects
       color: text-dark
       styles:
         self:

@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Hello there! i'm
+      label: Data analyst | data scientist | business intelegence
       color: text-primary
       type: Badge
     elementId: ''

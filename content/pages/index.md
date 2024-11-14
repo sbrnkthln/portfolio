@@ -34,6 +34,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Projects

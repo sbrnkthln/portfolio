@@ -30,6 +30,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: ''
+        url: /sabrinakathleen26@gmail.com
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''

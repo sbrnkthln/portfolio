@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-          textAlign: left
+          textAlign: justify
     subtitle: ''
     text: >+
       ###### Hello, there! I'm on a journey to delve into the world of data and

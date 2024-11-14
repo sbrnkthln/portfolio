@@ -8,10 +8,11 @@ sections:
       color: text-primary
       type: TitleBlock
     subtitle: ''
-    text: >
-      ## Hello, there! I'm on a journey to delve into the world of data and
+    text: >+
+      ##### Hello, there! I'm on a journey to delve into the world of data and
       dedicating this platform as a journal, where I document my insights and
       discoveries.
+
     actions: []
     media:
       altText: Unblock your team boost your time to production preview

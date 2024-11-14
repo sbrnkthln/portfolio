@@ -36,7 +36,7 @@ sections:
         showIcon: true
         icon: mail
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     media:
       altText: Unblock your team boost your time to production preview

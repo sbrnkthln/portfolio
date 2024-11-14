@@ -104,7 +104,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-14"
+                "pt-0"
             ]
         }
     }

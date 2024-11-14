@@ -5,11 +5,15 @@ sections:
   - type: GenericSection
     title:
       text: Sabrina Kathleen
-      color: text-primary
+      color: text-light
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
+          textAlign: justify
     subtitle: ''
     text: >+
-      ##### Hello, there! I'm on a journey to delve into the world of data and
+      ###### Hello, there! I'm on a journey to delve into the world of data and
       dedicating this platform as a journal, where I document my insights and
       discoveries.
 
@@ -52,7 +56,7 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: sabrinakathleen26@gmail.com
+        url: 'mailto:sabrinakathleen26@gmail.com'
         showIcon: false
         icon: mail
         iconPosition: right
@@ -65,20 +69,20 @@ sections:
       type: ImageBlock
     badge:
       label: Data analyst | data scientist | business intelligence
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-end
         flexDirection: row
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
+        justifyContent: flex-start
       text:
         textAlign: left
   - type: FeaturedItemsSection

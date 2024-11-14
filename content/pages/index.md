@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 700
     subtitle: ''
     text: >+
       ###### Hello, there! I'm on a journey to delve into the world of data and

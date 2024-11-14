@@ -44,7 +44,7 @@ sections:
       - type: Link
         label: Kaggle
         altText: ''
-        url: '/https://www.kaggle.com/sabrinakathleen'
+        url: 'https://www.kaggle.com/sabrinakathleen'
         showIcon: false
         icon: arrowRight
         iconPosition: right

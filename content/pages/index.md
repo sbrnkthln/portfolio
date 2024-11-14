@@ -40,6 +40,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+        label: Email
       - type: Link
         label: Medium
         altText: ''

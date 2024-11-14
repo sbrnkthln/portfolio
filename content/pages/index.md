@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
+          fontStyle: italic
     subtitle: ''
     text: >+
       ##### Hello, there! I'm on a journey to delve into the world of data and

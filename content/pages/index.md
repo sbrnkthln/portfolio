@@ -78,7 +78,7 @@ sections:
               - pl-7
               - pb-7
               - pr-7
-            borderRadius: x-large
+            borderRadius: none
             flexDirection: row
             justifyContent: center
             textAlign: left

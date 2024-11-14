@@ -12,7 +12,7 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >+
-      ##### Hello, there! I'm on a journey to delve into the world of data and
+      ###### Hello, there! I'm on a journey to delve into the world of data and
       dedicating this platform as a journal, where I document my insights and
       discoveries.
 

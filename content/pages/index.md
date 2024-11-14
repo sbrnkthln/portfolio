@@ -18,6 +18,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Sabrina Kathleen.jpg
     badge:
       label: Data analyst | data scientist | business intelligence
       color: text-primary

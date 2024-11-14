@@ -89,6 +89,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/Screenshot 2024-11-14 203926.png
       - title: 20x
         subtitle: The Job Stuff
         text: >-

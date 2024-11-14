@@ -83,6 +83,7 @@ sections:
             justifyContent: center
             textAlign: left
             borderColor: border-light
+            borderWidth: 0
         image:
           type: ImageBlock
           altText: ''

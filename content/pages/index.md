@@ -42,7 +42,7 @@ sections:
         label: Medium
         altText: ''
         url: '/https://medium.com/@sbrnkthln'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary

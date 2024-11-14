@@ -104,10 +104,10 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-2",
-                "pl-2",
-                "pr-2",
-                "pb-2"
+                "pt-8",
+                "pl-8",
+                "pr-8",
+                "pb-8"
             ],
             "margin": [
                 "mt-2",

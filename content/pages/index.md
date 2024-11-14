@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Sabrina Kathleen
+      text: Sabrina K.
       color: text-primary
       type: TitleBlock
     subtitle: ''

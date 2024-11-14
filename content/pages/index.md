@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Link
         altText: GitHub
-        url: '/https://github.com/sbrnkthln'
+        url: 'https://github.com/sbrnkthln'
         showIcon: false
         icon: github
         iconPosition: left
@@ -25,7 +25,7 @@ sections:
         label: GitHub
       - type: Link
         altText: LinkedIn
-        url: '/https://www.linkedin.com/in/sabrinakthln'
+        url: 'https://www.linkedin.com/in/sabrinakthln'
         showIcon: false
         icon: linkedin
         iconPosition: left
@@ -35,7 +35,7 @@ sections:
       - type: Link
         label: Medium
         altText: ''
-        url: '/https://medium.com/@sbrnkthln'
+        url: 'https://medium.com/@sbrnkthln'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -44,7 +44,7 @@ sections:
       - type: Link
         label: Kaggle
         altText: ''
-        url: '/https://www.kaggle.com/sabrinakathleen'
+        url: 'https://www.kaggle.com/sabrinakathleen'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -52,7 +52,7 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: /sabrinakathleen26@gmail.com
+        url: sabrinakathleen26@gmail.com
         showIcon: false
         icon: mail
         iconPosition: right

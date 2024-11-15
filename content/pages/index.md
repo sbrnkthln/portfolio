@@ -54,6 +54,15 @@ sections:
             style: primary
             elementId: ''
             label: Kaggle
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: 'https://medium.com/@sbrnkthln'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:

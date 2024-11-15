@@ -28,15 +28,6 @@ sections:
           url: /images/Sabrina Kathleen_copy.jpg
         actions:
           - type: Link
-            altText: GitHub
-            url: 'https://github.com/sbrnkthln'
-            showIcon: false
-            icon: github
-            iconPosition: left
-            style: primary
-            elementId: ''
-            label: Github
-          - type: Link
             altText: LinkedIn
             url: 'https://www.linkedin.com/in/sabrinakthln/'
             showIcon: false
@@ -45,6 +36,15 @@ sections:
             style: primary
             elementId: ''
             label: Linkedin
+          - type: Link
+            altText: GitHub
+            url: 'https://github.com/sbrnkthln'
+            showIcon: false
+            icon: github
+            iconPosition: left
+            style: primary
+            elementId: ''
+            label: Github
           - type: Link
             altText: ''
             url: 'https://www.kaggle.com/sabrinakathleen'

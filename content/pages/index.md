@@ -206,6 +206,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+            borderColor: border-light
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing

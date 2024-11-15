@@ -179,7 +179,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ''
+      text: test
       color: text-dark
       styles:
         self:

@@ -176,49 +176,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: 'Skills:'
-    items:
-      - type: FeaturedItem
-        title: 'Programming Languages: Python, SQL'
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
-            textAlign: left
-            borderRadius: none
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutralAlt
-            borderStyle: double
-            borderWidth: 1
-    actions: []
-    variant: toggle-list
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-4
-          - pt-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

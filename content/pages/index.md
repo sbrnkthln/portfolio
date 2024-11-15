@@ -145,7 +145,7 @@ sections:
             flexDirection: col
     actions: []
     badge:
-      label: Take a Look at my recent
+      label: Ta
       color: text-dark
       styles:
         self:

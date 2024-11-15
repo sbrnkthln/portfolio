@@ -149,7 +149,7 @@ sections:
             flexDirection: col
     actions: []
     badge:
-      label: Take a loot at my recent
+      label: PROJECTS
       color: text-dark
       styles:
         self:

@@ -39,10 +39,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-5
-          - pl-5
-          - pb-5
-          - pr-5
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection

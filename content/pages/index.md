@@ -84,6 +84,8 @@ sections:
           - pl-5
           - pb-5
           - pr-5
+        margin:
+          - mb-4
       subtitle:
         textAlign: center
         fontWeight: 500

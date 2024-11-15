@@ -63,6 +63,15 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: 'sentto:sabrinakathleen26@gmail.com'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:

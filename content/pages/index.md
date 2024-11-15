@@ -206,22 +206,6 @@ sections:
             borderColor: border-neutralAlt
             borderStyle: double
             borderWidth: 1
-      - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: ''
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-1
-              - pl-1
-              - pb-1
-              - pr-1
-            borderRadius: x-large
-            flexDirection: row
-            borderWidth: 8
     actions: []
     variant: toggle-list
     colors: bg-neutral-fg-dark

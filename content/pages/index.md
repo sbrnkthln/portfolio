@@ -201,7 +201,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/jacques-bopp-dWM4TX9yPS0-unsplash.jpg
           altText: Placeholder text
           styles:
             self:

@@ -53,6 +53,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+            label: Kaggle
         colors: bg-light-fg-dark
         styles:
           self:

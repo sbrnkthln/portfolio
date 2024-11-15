@@ -44,7 +44,7 @@ sections:
           - pb-7
           - pr-7
       subtitle:
-        textAlign: center
+        textAlign: left
         fontWeight: 700
   - type: FeaturedItemsSection
     title:

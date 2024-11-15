@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: test
+    subtitle: DATA PORTFOLIO
     items:
       - type: FeaturedItem
         title: test

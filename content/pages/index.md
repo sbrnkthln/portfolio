@@ -173,8 +173,13 @@ sections:
         title: ''
         tagline: ''
         subtitle: Analyze Sales Data to Gain Business Insight
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          ###### Examine the daily sales data to improve business performance.
+          This analysis aims to better understand business performance by
+          tracking historical sales data to gain valuable insight.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

@@ -252,7 +252,7 @@ sections:
             altText: ''
             url: >-
               https://www.kaggle.com/code/sabrinakathleen/threads-app-sentiment-analysis
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary

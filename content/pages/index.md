@@ -85,7 +85,7 @@ sections:
           - pb-5
           - pr-5
         margin:
-          - mb-4
+          - mb-0
       subtitle:
         textAlign: center
         fontWeight: 500

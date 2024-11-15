@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: test
-        tagline: Testimonial 1
+        tagline: 'Hi, there!'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

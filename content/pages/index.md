@@ -6,7 +6,7 @@ sections:
     subtitle: DATA PORTFOLIO
     items:
       - type: FeaturedItem
-        title: test
+        title: ''
         tagline: 'Hi, there!'
         subtitle: 'Maria Walters, Company'
         text: >-

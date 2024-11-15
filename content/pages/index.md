@@ -123,7 +123,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/headway-jfR5wu2hMI0-unsplash.jpg
           altText: Placeholder text
           styles:
             self:

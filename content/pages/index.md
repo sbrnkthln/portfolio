@@ -48,7 +48,7 @@ sections:
           - type: Link
             altText: ''
             url: 'https://www.kaggle.com/sabrinakathleen'
-            showIcon: true
+            showIcon: false
             icon: instagram
             iconPosition: right
             style: secondary

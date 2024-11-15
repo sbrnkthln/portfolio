@@ -45,7 +45,7 @@ sections:
           - pr-7
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 500
   - type: FeaturedItemsSection
     title:
       text: Projects

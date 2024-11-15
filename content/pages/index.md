@@ -42,7 +42,7 @@ sections:
             showIcon: false
             icon: linkedin
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
             label: Linkedin
         colors: bg-neutralAlt-fg-dark

@@ -140,7 +140,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: This is the tagline
         subtitle: NYC TLC Trip Analysis (In Indonesian)
         text: |

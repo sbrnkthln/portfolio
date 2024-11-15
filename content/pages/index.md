@@ -23,7 +23,7 @@ sections:
         url: 'https://github.com/sbrnkthln'
         showIcon: false
         icon: github
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
         label: GitHub

@@ -9,10 +9,16 @@ sections:
         title: ''
         tagline: 'Hi, there! I''m Sabrina'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          I’m a passionate and results-driven data professional aiming to make a
+          meaningful impact as a Data Analyst, Data Scientist, or Business
+          Intelligence Specialist. I graduated from Purwadhika Digital
+          Technology School, where I completed an intensive program in Data
+          Science and Machine Learning. My training and hands-on experience have
+          equipped me with a well-rounded skill set to explore data, derive
+          insights, and support data-driven decision-making.
+
         image:
           type: ImageBlock
           altText: Maria Walters

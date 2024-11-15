@@ -9,7 +9,16 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: "<div style=\"text-align: left\">Hi, there! I'm Sabrina a passionate and results-driven data professional aiming to make a meaningful impact as a Data Analyst, Data Scientist, or Business Intelligence Specialist. I graduated from Purwadhika Digital Technology School, where I completed an intensive program in Data Science and Machine Learning. My training and hands-on experience have equipped me with a well-rounded skill set to explore data, derive insights, and support data-driven decision-making.</div>\n\n*   **Programming Languages**: Python, SQL\n\n*   **Machine Learning:** Supervised, Unsupervised\n\n*   **Machine Learning libraries**: Scikit-learn, Tensorflow\_\n\n*   **Statistical Analysis**: Hypothesis Testing, Probability\n\n*   **Data Manipulation and Wrangling**: Pandas, Numpy\n\n*   **Data Visualization tools**: Tableau, Looker Studio, Plotly, Seaborn, Matplotlib, MetaBase\n\n*   **Data Collection**: Python (BeautifulSoup, Selenium)\n\n"
+        text: >+
+          <div style="text-align: left">Hi, there! I'm Sabrina a passionate and
+          results-driven data professional aiming to make a meaningful impact as
+          a Data Analyst, Data Scientist, or Business Intelligence Specialist. I
+          graduated from Purwadhika Digital Technology School, where I completed
+          an intensive program in Data Science and Machine Learning. My training
+          and hands-on experience have equipped me with a well-rounded skill set
+          to explore data, derive insights, and support data-driven
+          decision-making.</div>
+
         image:
           type: ImageBlock
           altText: Maria Walters

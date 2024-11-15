@@ -208,7 +208,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://www.kaggle.com/code/sabrinakathleen/eda-and-sales-analysis'
             showIcon: false

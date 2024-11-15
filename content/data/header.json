@@ -15,7 +15,7 @@
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
-    "title": "Data Portfolio",
+    "title": "",
     "styles": {
         "self": {
             "padding": [

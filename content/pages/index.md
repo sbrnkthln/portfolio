@@ -163,7 +163,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/taton-moise-MJUPKcRY0HI-unsplash.jpg
           altText: Placeholder text
           styles:
             self:

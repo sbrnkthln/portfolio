@@ -70,6 +70,11 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection

@@ -250,10 +250,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
+          - pb-4
+          - pt-4
+          - pl-4
+          - pr-4
         justifyContent: center
       subtitle:
         textAlign: center

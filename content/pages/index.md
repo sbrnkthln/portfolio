@@ -143,8 +143,14 @@ sections:
         title: ''
         tagline: ''
         subtitle: NYC TLC Trip Analysis (In Indonesian)
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          ###### Dalam project ini, saya melakukan Exploratory Data Analysis
+          (EDA) secara menyeluruh terhadap data perjalanan Taxi & Limousine
+          Commission (TLC) di Kota New York. Melalui analisis ini, saya
+          bertujuan untuk mengungkap insights, pola, dan tren.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

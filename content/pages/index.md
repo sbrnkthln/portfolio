@@ -211,7 +211,7 @@ sections:
             label: Learn More
             altText: ''
             url: 'https://www.kaggle.com/code/sabrinakathleen/eda-and-sales-analysis'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary

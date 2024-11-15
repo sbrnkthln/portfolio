@@ -153,7 +153,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: Python | Data Visualisation | Statistics
         subtitle: NYC Taxi & Limousine Commission Trip Analysis (In Indonesian)
         text: >+
           ###### Dalam project ini, saya melakukan Exploratory Data Analysis

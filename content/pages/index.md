@@ -128,7 +128,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://github.com/sbrnkthln/telco-customer-churn-prediction-and-analysis/blob/main/telco%20customer%20churn%20.ipynb
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:

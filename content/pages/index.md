@@ -91,7 +91,7 @@ sections:
         fontWeight: 500
   - type: FeaturedItemsSection
     title:
-      text: Projects
+      text: ''
       color: text-dark
       styles:
         self:

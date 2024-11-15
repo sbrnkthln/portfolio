@@ -152,7 +152,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: NYC TLC Trip Analysis (In Indonesian)
+        subtitle: NYC Taxi & Limousine Commission Trip Analysis (In Indonesian)
         text: >+
           ###### Dalam project ini, saya melakukan Exploratory Data Analysis
           (EDA) secara menyeluruh terhadap data perjalanan Taxi & Limousine

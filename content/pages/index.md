@@ -21,7 +21,7 @@ sections:
       - type: Link
         altText: GitHub
         url: 'https://github.com/sbrnkthln'
-        showIcon: true
+        showIcon: false
         icon: github
         iconPosition: left
         style: primary

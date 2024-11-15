@@ -51,7 +51,7 @@ sections:
             showIcon: false
             icon: instagram
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
             label: Kaggle
         colors: bg-light-fg-dark

@@ -200,7 +200,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Portfolio 4
-        tagline: This is the tagline
+        tagline: ''
         subtitle: 'Threads App Sentiment Analysis: What Are Users Really Feeling?'
         text: |
           Follow the tutorial to build your first Netlify Create site.

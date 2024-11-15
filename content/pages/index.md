@@ -201,7 +201,7 @@ sections:
       - type: FeaturedItem
         title: Portfolio 4
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Threads App Sentiment Analysis: What Are Users Really Feeling?'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

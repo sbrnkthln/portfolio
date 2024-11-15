@@ -16,7 +16,6 @@ sections:
           styles:
             self:
               borderRadius: full
-          url: /images/Sabrina Kathleen_copy.jpg
         actions:
           - type: Link
             altText: LinkedIn

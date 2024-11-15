@@ -187,7 +187,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: 'Programming Languages: Python, SQL'
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

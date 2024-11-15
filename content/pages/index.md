@@ -173,7 +173,7 @@ sections:
             label: Learn More
             altText: ''
             url: 'https://github.com/sbrnkthln/nyc_tlc_trip_analysis'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary

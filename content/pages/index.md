@@ -171,7 +171,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Portfolio 3
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Analyze Sales Data to Gain Business Insight
         text: |
           Follow the tutorial to build your first Netlify Create site.

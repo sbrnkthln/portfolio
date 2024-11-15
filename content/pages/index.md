@@ -112,8 +112,15 @@ sections:
         title: ''
         tagline: ''
         subtitle: Optimizing Customer Retention through Churn Prediction and Analysis
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          ###### This project aims to predict customer churn and analyze the
+          factors contributing to it, enabling strategic resource allocation. By
+          identifying customers at high risk of leaving and understanding the
+          key drivers of their churn, the company can implement targeted
+          retention strategies.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

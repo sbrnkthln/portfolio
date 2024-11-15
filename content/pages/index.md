@@ -110,7 +110,9 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: 'Python | '
+        tagline: >-
+          Python | Machine Learning: Classification | Data Visualization | Data
+          Analysis
         subtitle: Optimizing Customer Retention through Churn Prediction and Analysis
         text: >+
           ###### This project aims to predict customer churn and analyze the

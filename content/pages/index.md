@@ -192,7 +192,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: Python | Data Visualisation | Data Analysis
         subtitle: Analyze Sales Data to Gain Business Insight
         text: >+
           ###### Examine the daily sales data to improve business performance.

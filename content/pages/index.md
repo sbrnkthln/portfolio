@@ -141,7 +141,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: NYC TLC Trip Analysis (In Indonesian)
         text: |
           Follow the tutorial to build your first Netlify Create site.

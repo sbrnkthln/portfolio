@@ -132,7 +132,7 @@ sections:
           - type: Link
             label: Learn More
             altText: ''
-            url: Learn More
+            url: ''
             showIcon: false
             icon: arrowRight
             iconPosition: right

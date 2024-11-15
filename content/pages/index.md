@@ -205,6 +205,7 @@ sections:
             justifyContent: center
             borderColor: border-neutralAlt
             borderStyle: double
+            borderWidth: 1
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering

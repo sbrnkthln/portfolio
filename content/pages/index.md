@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: 'Hi, there!'
+        tagline: 'Hi, there! I''m Sabrina'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

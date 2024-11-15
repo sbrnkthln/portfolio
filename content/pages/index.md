@@ -75,7 +75,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: flex-start
+        alignItems: center
         flexDirection: col
         padding:
           - pt-16

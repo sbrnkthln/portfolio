@@ -15,7 +15,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Sabrina Kathleen_copy.jpg
           altText: Maria Walters
           styles:
             self:

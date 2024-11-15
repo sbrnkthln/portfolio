@@ -206,26 +206,6 @@ sections:
             borderColor: border-neutralAlt
             borderStyle: double
       - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-1
-              - pl-1
-              - pb-1
-              - pr-1
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
         text: >-

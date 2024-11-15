@@ -71,10 +71,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-80
-          - pl-80
-          - pb-80
-          - pr-80
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection

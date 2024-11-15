@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Data Portolio
     items:
       - type: FeaturedItem
         title: >-

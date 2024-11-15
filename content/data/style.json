@@ -24,7 +24,7 @@
     },
     "h3": {
         "size": "",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "wide",

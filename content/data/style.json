@@ -7,7 +7,7 @@
     "fontBody": "serif",
     "fontHeadlines": "sans",
     "h1": {
-        "size": "8xl",
+        "size": "5xl",
         "weight": "bold",
         "decoration": "none",
         "case": "none",

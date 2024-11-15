@@ -26,7 +26,15 @@ sections:
             self:
               borderRadius: full
           url: /images/Sabrina Kathleen_copy.jpg
-        actions: []
+        actions:
+          - type: Link
+            altText: GitHub
+            url: 'https://github.com/sbrnkthln'
+            showIcon: true
+            icon: github
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

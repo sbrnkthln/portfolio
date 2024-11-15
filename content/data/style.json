@@ -51,7 +51,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "capitalize",
-        "letterSpacing": "normal",
+        "letterSpacing": "tight",
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {

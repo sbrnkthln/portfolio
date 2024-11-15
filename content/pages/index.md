@@ -33,7 +33,7 @@ sections:
             showIcon: false
             icon: github
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
             label: Github
         colors: bg-neutralAlt-fg-dark

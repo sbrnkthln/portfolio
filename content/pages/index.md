@@ -230,7 +230,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: Python | NLP | Data Visualisation | Data Analysis
         subtitle: 'Threads App Sentiment Analysis: What Are Users Really Feeling?'
         text: >+
           ###### Analyzing the semantic using review descriptions to understand

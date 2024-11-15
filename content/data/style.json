@@ -9,7 +9,7 @@
     "h1": {
         "size": "xs",
         "weight": "medium",
-        "decoration": "line-through",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "tighter",
         "type": "ThemeStyleHeading"

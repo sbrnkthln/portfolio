@@ -188,7 +188,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Programming Languages: Python, SQL'
-        subtitle: Sales
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-dark-fg-light

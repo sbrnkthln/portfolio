@@ -206,7 +206,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            borderColor: border-light
+            borderColor: border-neutralAlt
             borderStyle: solid
       - type: FeaturedItem
         title: Open Source Engineer

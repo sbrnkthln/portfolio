@@ -109,7 +109,9 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: >-
+          Python | Machine Learning: Classification | Data Visualization | Data
+          Analysis
         tagline: >-
           Python | Machine Learning: Classification | Data Visualization | Data
           Analysis

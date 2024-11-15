@@ -64,7 +64,7 @@ sections:
             style: primary
             elementId: ''
           - type: Link
-            label: See Tutorials
+            label: Email
             altText: ''
             url: 'sentto:sabrinakathleen26@gmail.com'
             showIcon: false

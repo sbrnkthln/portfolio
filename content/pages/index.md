@@ -170,7 +170,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Portfolio 3
+        title: ''
         tagline: ''
         subtitle: Analyze Sales Data to Gain Business Insight
         text: |

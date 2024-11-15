@@ -6,7 +6,7 @@ sections:
     subtitle: DATA PORTFOLIO
     items:
       - type: FeaturedItem
-        title: Introduction
+        title: 'Hi, there! I''m Sabrina'
         tagline: 'Hi, there! I''m Sabrina'
         subtitle: ''
         text: >+

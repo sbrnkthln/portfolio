@@ -198,10 +198,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
             textAlign: left
             borderRadius: x-large
             flexDirection: row

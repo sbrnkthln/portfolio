@@ -55,7 +55,7 @@ sections:
             elementId: ''
             label: Kaggle
           - type: Link
-            label: See Tutorials
+            label: Medium
             altText: ''
             url: 'https://medium.com/@sbrnkthln'
             showIcon: false

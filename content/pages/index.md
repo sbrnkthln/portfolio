@@ -200,7 +200,7 @@ sections:
               - pb-2
               - pr-2
             textAlign: center
-            borderRadius: x-large
+            borderRadius: none
             flexDirection: row
             justifyContent: center
             borderColor: border-neutralAlt

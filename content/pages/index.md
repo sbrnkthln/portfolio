@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Hi, there! I''m Sabrina'
-        tagline: 'Hi, there! I''m Sabrina'
+        tagline: ''
         subtitle: ''
         text: >+
 

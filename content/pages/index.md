@@ -66,7 +66,7 @@ sections:
           - type: Link
             label: Email
             altText: ''
-            url: 'sentto:sabrinakathleen26@gmail.com'
+            url: 'mailto:sabrinakathleen26@gmail.com'
             showIcon: false
             icon: arrowRight
             iconPosition: right

@@ -110,7 +110,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: 'Python | '
         subtitle: Optimizing Customer Retention through Churn Prediction and Analysis
         text: >+
           ###### This project aims to predict customer churn and analyze the

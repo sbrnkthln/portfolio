@@ -7,7 +7,7 @@
     "fontBody": "",
     "fontHeadlines": "",
     "h1": {
-        "size": "",
+        "size": "xs",
         "weight": "normal",
         "decoration": "none",
         "case": "none",

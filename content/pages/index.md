@@ -170,7 +170,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://github.com/sbrnkthln/nyc_tlc_trip_analysis'
             showIcon: false

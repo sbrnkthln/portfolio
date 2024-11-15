@@ -35,6 +35,7 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+            label: Github
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

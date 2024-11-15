@@ -224,7 +224,7 @@ sections:
               - pr-8
             textAlign: left
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
       - type: FeaturedItem
         title: Senior Software Engineer

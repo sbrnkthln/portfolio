@@ -45,6 +45,14 @@ sections:
             style: primary
             elementId: ''
             label: Linkedin
+          - type: Link
+            altText: ''
+            url: 'https://www.kaggle.com/sabrinakathleen'
+            showIcon: true
+            icon: instagram
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:

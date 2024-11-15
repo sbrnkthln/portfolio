@@ -202,8 +202,15 @@ sections:
         title: ''
         tagline: ''
         subtitle: 'Threads App Sentiment Analysis: What Are Users Really Feeling?'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          ###### Analyzing the semantic using review descriptions to understand
+          user sentiment about the Threads App. I used VADER (Valence Aware
+          Dictionary for Sentiment Reasoning) model to generate the sentiment
+          scores based on words in the review descriptions about the Threads
+          app.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

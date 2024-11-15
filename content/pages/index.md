@@ -199,7 +199,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Portfolio 4
+        title: ''
         tagline: ''
         subtitle: 'Threads App Sentiment Analysis: What Are Users Really Feeling?'
         text: |

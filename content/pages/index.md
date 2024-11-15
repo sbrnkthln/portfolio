@@ -36,6 +36,14 @@ sections:
             style: primary
             elementId: ''
             label: Github
+          - type: Link
+            altText: LinkedIn
+            url: 'https://www.linkedin.com/in/sabrinakthln/'
+            showIcon: true
+            icon: linkedin
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

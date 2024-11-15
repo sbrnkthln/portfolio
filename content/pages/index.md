@@ -202,7 +202,7 @@ sections:
               - pl-1
               - pb-1
               - pr-1
-            textAlign: left
+            textAlign: center
             borderRadius: x-large
             flexDirection: row
             justifyContent: center

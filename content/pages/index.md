@@ -145,8 +145,8 @@ sections:
             flexDirection: col
     actions: []
     badge:
-      label: Take a Look at my recent
-      color: text-neutral
+      label: Take a loot at my recent
+      color: text-dark
       styles:
         self:
           textAlign: center

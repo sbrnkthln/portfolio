@@ -12,8 +12,18 @@
     },
     "primaryLinks": [],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-right",
+    "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
-    "title": ""
+    "title": "Data Portfolio",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pl-6",
+                "pb-6",
+                "pr-6"
+            ]
+        }
+    }
 }

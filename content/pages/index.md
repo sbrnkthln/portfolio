@@ -130,7 +130,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: Learn More
             altText: ''
             url: Learn More
             showIcon: false

@@ -132,7 +132,8 @@ sections:
           - type: Link
             label: Learn More
             altText: ''
-            url: ''
+            url: >-
+              https://github.com/sbrnkthln/telco-customer-churn-prediction-and-analysis/blob/main/telco%20customer%20churn%20.ipynb
             showIcon: false
             icon: arrowRight
             iconPosition: right

@@ -199,7 +199,7 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-            textAlign: center
+            textAlign: left
             borderRadius: none
             flexDirection: row
             justifyContent: center

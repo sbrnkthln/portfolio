@@ -241,7 +241,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/julio-lopez-lwVOEkfJRoU-unsplash.jpg
           altText: Placeholder text
           styles:
             self:

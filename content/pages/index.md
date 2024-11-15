@@ -189,10 +189,7 @@ sections:
       - type: FeaturedItem
         title: 'Programming Languages: Python, SQL'
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         actions: []
         colors: bg-dark-fg-light
         styles:

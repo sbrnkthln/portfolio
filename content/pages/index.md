@@ -221,6 +221,7 @@ sections:
               - pr-1
             borderRadius: x-large
             flexDirection: row
+            borderWidth: 8
     actions: []
     variant: toggle-list
     colors: bg-neutral-fg-dark

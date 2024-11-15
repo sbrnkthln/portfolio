@@ -25,7 +25,7 @@
     "h3": {
         "size": "",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "line-through",
         "case": "none",
         "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
